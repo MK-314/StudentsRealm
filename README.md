@@ -3,4 +3,4 @@
 
 ##### Recources:
 - [blog.logrocket.com/getting-started-with-realmswift](https://blog.logrocket.com/getting-started-with-realmswift/)
-- [UI setup (realm_setup branch)](https://github.com/MK-314/StudentsRealm)
+- [UI setup (realm_setup branch)](https://github.com/MK-314/StudentsRealm/tree/realm_setup)
